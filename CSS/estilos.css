@@ -1,0 +1,41 @@
+body {
+    background: grey;
+    background-image: url('https://www.cronosolucoes.com.br/wp-content/uploads/2018/10/765090-most-popular-technology-background-images-1920x1080-hd-for-mobile.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    font-family: Verdana;
+    background-color: black;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none
+  }
+  
+  a {
+    color: yellow;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: orange;
+    font-style: italic;
+    text-align: left;
+  }
